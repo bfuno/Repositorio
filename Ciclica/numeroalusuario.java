@@ -1,5 +1,3 @@
-package DAM.Estructura_ciclica;
-
 import java.util.Scanner;
 
 public class numeroalusuario {
